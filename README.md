@@ -12,12 +12,15 @@ We strive to analyze and examine, in detail, the various event trends and reacti
 ## QUESTIONS SOUGHT AND ANSWERS:  
 - a) Was the breakup of the Soviet Union preceded by increased cooperation or conflict with other nations? How did the breakup        affect US-Russian relations and relations with other nations?
 
--
+-The years prior to the collapse in the Soviet Union were marked by an increase in cooperation between the Soviet Union and the rest of the world. Both incoming and outgoing events were at a higher level before the collapse of the Soviet Union than after. This seems to signify that the fall signaled an end of the cooperation of one of the world's largest superpowers, and the beginning of a race for dominance.
 
 - b) Do the Olympics have any effect on global cooperation? Specifically, does the host nation of the Olympics have more              cooperation with other nations?
 
+-Generally, the Olympics have a negative effect on the amount of verbal cooperation between a host nation and the rest of the world. After the Olympics are held in a country, the country averages a 1.7% decrease in verbal cooperation, and a 1.2% increase in verbal conflict. These results surprised us, as we believed the Olympics would help to bring nations into the fold on a global scale, and help bring nations together.
 
 - c) How have the world's most threatening nations evolved over time?
+
+-
 
 ## APPLICATION:  
 Our analysis sought to find correlations between global events and the amount of cooperation or conflict between nations and regions. By asking these questions and analyzing the results, one might be able to predict when and where conflicts arise to avoid them, or show that increasing cooperation among nations helps to alleviate the amount of negative events that occur around the world.
