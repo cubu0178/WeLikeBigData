@@ -32,3 +32,4 @@ In the case of the break-up of the Soviet Union, one can analyze whether or not,
 ## VIDEO LINK:  
 
 ## FINAL PAPER LINK: 
+https://github.com/cubu0178/WeLikeBigData/blob/master/Group05_DataAnalysisOnGDELT_Part6.pdf
