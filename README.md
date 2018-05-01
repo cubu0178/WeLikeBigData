@@ -13,4 +13,10 @@ We strive to analyze and examine, in detail, the various event trends and reacti
 - a) Was the breakup of the Soviet Union preceded by increased cooperation or conflict with other nations? How did the breakup        affect US-Russian relations and relations with other nations?
 - b) Do the Olympics have any effect on global cooperation? Specifically, does the host nation of the Olympics have more              cooperation with other nations?
 - c) Is there any connection between flare-ups of the conflict in Israel and Palestine and other global events of either conflict or        cooperation?
-- d) Which country traditionally considered at-odds with the United States (eg. China, Russia, North Korea, Iran) shows the most            conflict over time, and is this level of conflict affected by changes in presidential administration? 
+- d) Which country traditionally considered at-odds with the United States (eg. China, Russia, North Korea, Iran) shows the most            conflict over time, and is this level of conflict affected by changes in presidential administration?  
+
+## APPLICATION:  
+
+## VIDEO LINK:  
+
+## FINAL PAPER LINK: 
