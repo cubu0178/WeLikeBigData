@@ -20,8 +20,6 @@ We strive to analyze and examine, in detail, the various event trends and reacti
 
 - c) How have the world's most threatening nations evolved over time?
 
--
-
 ## APPLICATION:  
 Our analysis sought to find correlations between global events and the amount of cooperation or conflict between nations and regions. By asking these questions and analyzing the results, one might be able to predict when and where conflicts arise to avoid them, or show that increasing cooperation among nations helps to alleviate the amount of negative events that occur around the world.
 
