@@ -28,6 +28,8 @@ Generally, this knowledge is only of value when placed in the hands of global le
 In the case of the break-up of the Soviet Union, one can analyze whether or not, prior to the break-up, there was an increase in conflict with other nations, or whether there was an increase in cooperation. This could serve as a guidebook for how to deal with rogue states; one can either pressure / threaten them into submission, or try to work together and find common ground. Either way, the information can be valuable when analyzing the rise and fall of similar nations today.
 
 ## VIDEO LINK:  
+(LOUD!)
 https://www.screencast.com/t/KH5hNzCW
+(LOUD!)
 ## FINAL PAPER LINK: 
 https://github.com/cubu0178/WeLikeBigData/blob/master/Group05_DataAnalysisOnGDELT_Part6.pdf
