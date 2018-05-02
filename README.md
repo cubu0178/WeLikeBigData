@@ -20,6 +20,7 @@ We strive to analyze and examine, in detail, the various event trends and reacti
 
 - c) How have the world's most threatening nations evolved over time?
 
+-The total number of threats issued by the top six threat issuing nations was about constant until 2001, where threats issued from the United States increased following 9/11. Following 2005, threats increased among all six nations by  nearly the same magnitude with the exception of the USA which increased its share of threats issued from about 38% to 50% of threats issued by the top six nations.
 ## APPLICATION:  
 Our analysis sought to find correlations between global events and the amount of cooperation or conflict between nations and regions. By asking these questions and analyzing the results, one might be able to predict when and where conflicts arise to avoid them, or show that increasing cooperation among nations helps to alleviate the amount of negative events that occur around the world.
 
